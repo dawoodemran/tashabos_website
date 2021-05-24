@@ -2,5 +2,5 @@
 
 return [
     'production' => true,
-    'baseUrl' => 'http://127.0.0.1:8887',
+    'baseUrl' => '104.248.145.144',
 ];

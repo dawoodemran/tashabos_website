@@ -2,7 +2,7 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'http://localhost:3000',
+    'baseUrl' => '104.248.145.144',
     'title' => 'Tashabos',
     'description' => 'Tashabos',
     'collections' => [],
